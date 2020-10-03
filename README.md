@@ -1,7 +1,8 @@
 # Project 2 - Disaster Pipeline
 This file is a documentation file for an exercise performed as a part of Data Scientist NanoDegree project 2 - Disaster Response Pipelines.
 
-Code is stored in folder workspace. It has following structure:
+
+## Code is stored in folder workspace. It has following structure:
 
 - app
 | - template
